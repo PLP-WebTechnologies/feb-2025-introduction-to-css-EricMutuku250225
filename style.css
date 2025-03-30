@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 25px;
+    background-color: black;
+}
+.styled-image {
+    border: 4px blueviolet;
+    padding: 10px;
+    margin: 20px auto;
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+.highlight {
+    color: violet;
+    font-size: 20px;
+    line-height: 2;
+}
+#special-div {
+    background-color: beige;
+    font-size: 20px;
+    color: brown;
+    padding: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+header h1 {
+    color: #0077cc;
+    text-align: center;
+    font-family: 'Georgia', serif;
+    margin-bottom: 20px;
+}
